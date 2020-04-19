@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-18T18:43:21+12:00
+
+====== Non-fiction ======
+
+List of non fiction books related to topic of @solarpunk interest
+
+- [[https://en.wikipedia.org/wiki/The_Shock_Doctrine|The shock doctrine]], the rise of disaster capitalism, Naomi Klein
+
+- [[https://www.amazon.com/Paradise-Built-Hell-Extraordinary-Communities/dp/0143118072|A paradise built in hell,]] Rebecca Solnit ... see also article in the NY times https://www.nytimes.com/2009/08/21/books/21book.html 
+
+- [[https://en.wikipedia.org/wiki/Rights_of_Man|The Rights of Man,]] Thomas Paine (cited in article about the Solnit book: 
+“there were no established forms of government. ... Yet during this interval, order and harmony were preserved as inviolate as in any country in Europe. ... The instant formal government is abolished, society begins to act. A general association takes place, and common interest produces common security.” 
+
+- Peter Kalmus, [[https://peterkalmus.net/books/read-by-chapter-being-the-change|being the change.]] Online book, read by chapter 
+
+- 
+
+
